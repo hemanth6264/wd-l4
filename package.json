@@ -1,7 +1,7 @@
 {
   "name": "nodeproject",
   "version": "1.0.0",
-  "description": "my first node aplication",
+  "description": "Node project",
   "main": "index.js",
   "scripts": {
     "test": "jest",
